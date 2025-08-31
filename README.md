@@ -1,6 +1,6 @@
 <h3 align="left">👋 Hi, I'm Haresh R!  <br><br>
 - 🎓 Computer Science Student  <br>
-- 🚀 Generative AI Enthusiast  <br>
+- 🚀 Web3 || BlockChain || Generative AI Enthusiast  <br>
 - 🔥 Avid Leetcoder & Problem Solver  <br>
 - 💡 Passionate about AI, Algorithms, and Scalable Systems  <br>
 - 🛠 Building AI-driven solutions & optimizing complex problems  <br>
